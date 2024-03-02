@@ -1,4 +1,4 @@
-<p>
+<p aling="center">
   <img src="https://github.com/gamerhsfdm/exercicio-jspro/blob/main/logo.png" alt="food" width="200">
 </p>
 
