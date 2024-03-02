@@ -1,9 +1,15 @@
-<p aling="center">
-  <img src="https://github.com/gamerhsfdm/exercicio-jspro/blob/main/logo.png" alt="food" width="200">
+<p align="center">
+
+<img src="https://github.com/gamerhsfdm/exercicio-jspro/blob/main/logo.png" alt="food" width="200">
+
 </p>
 
+<br>
+
 <p aling="center">
-    Crie cardápios digitais de forma simples 🍕
+  
+   Crie cardápios digitais de forma simples 🍕  
+   
 </p>
 
 <h1> Sobre o Projeto</h1>
